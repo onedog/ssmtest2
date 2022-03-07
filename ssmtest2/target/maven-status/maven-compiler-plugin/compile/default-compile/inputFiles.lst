@@ -1,0 +1,15 @@
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\controller\EmployeeController.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\dao\DepartmentMapper.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\controller\DepartmentController.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\service\DepartmentService.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\service\impl\DepartmentServiceImpl.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\test\MBGTest.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\bean\Msg.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\bean\Employee.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\test\MapperTest.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\dao\EmployeeMapper.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\bean\Department.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\bean\DepartmentExample.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\service\impl\EmployeeServiceImpl.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\bean\EmployeeExample.java
+E:\JavaWeb\ssmtest2\src\main\java\com\mytest\crud\service\EmployeeService.java
